@@ -10,3 +10,4 @@ However, I will use this repo as a place to store what I'm writing while I am le
     - how bash is using quotes and for what purpose
     > "" tells bash to keep what's inside as a single argument (even if it contains spaces)
     > '' do the same, except they pass all text verbatim (including double quote characters and the dollar sign)
+    > to generate a new url use: https://requestbin.com/r/ 
